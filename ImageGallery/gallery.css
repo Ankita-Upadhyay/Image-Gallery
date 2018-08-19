@@ -1,0 +1,29 @@
+body {
+	padding-top: 70px;
+}
+
+.jumbotron{
+	/*background: linear-gradient(to right, #9966ff 10%, #ffffff 100%);*/
+	background: linear-gradient(to right, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #fbad50);
+	color: #ffffff ;
+	font-family: helvetica;
+
+}
+
+.navbar-inverse {
+	background-color: black;
+	/*background: linear-gradient(to right, #85153d 10%, #ffffff 100%);*/
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white; 
+}
+
+
+
+
+
